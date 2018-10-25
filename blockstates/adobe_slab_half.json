@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=bottom": { "model": "wf:adobe_slab_bottom" },
+        "half=top": { "model": "wf:adobe_slab_top" }
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "half=top": { "model": "wf:adobe_brick" },
+        "half=bottom": { "model": "wf:adobe_brick" }
+    }
+}

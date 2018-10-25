@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "axis=x": { "model": "wf:log_ash" },
+        "axis=y": { "model": "wf:log_ash" },
+        "axis=z": { "model": "wf:log_ash" },
+        "axis=none": { "model": "wf:log_ash" }
+    }
+}

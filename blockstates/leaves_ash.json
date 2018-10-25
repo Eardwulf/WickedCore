@@ -1,0 +1,9 @@
+{
+    "variants": 
+    {
+        "check_decay=true,decayable=true": { "model": "wf:leaves_ash" },
+        "check_decay=true,decayable=false": { "model": "wf:leaves_ash" },
+        "check_decay=false,decayable=true": { "model": "wf:leaves_ash" },
+        "check_decay=false,decayable=false": { "model": "wf:leaves_ash" }
+    }
+}
